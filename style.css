@@ -109,6 +109,11 @@ body {
   margin-bottom: 1rem;
 }
 
+.couple img {
+  height: 300px;
+  width: 300px;
+}
+
 .simply-countdown > .simply-section {
   padding: 70px;
   /* margin-top: px; */
